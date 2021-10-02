@@ -1,5 +1,5 @@
-### Stepik auto-tests course
+# Stepik auto-tests course
 
-# Test automation using Selenium and Python
+### Homework for the course "Test automation using Selenium and Python"
 
-Link: https://stepik.org/575
+Link  to the course: https://stepik.org/575
