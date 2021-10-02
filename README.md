@@ -9,24 +9,33 @@
 
 Link  to the course: https://stepik.org/575
 
-### Homework for module 1
-
-Module 1.6: Searching for items using Selenium WebDriver
-To run in a virtual Selenium environment,  use the command: 'python mod1.6_*.py'
+### Homework for module 1 
+Part 6: Searching for items using Selenium WebDriver:
+* mod1.6_3.py
+* mod1.6_4.py
+* mod1.6_5.py
+To run in a virtual Selenium environment,  use the command: `python mod1.6_*.py`
 
 ### Homework for module 2
 
-Module 2.1:	Basic Selenium Methods
-To run in a virtual Selenium environment,  use the command: 'python mod2.1_*.py'
+Part 1:	Basic Selenium Methods:
+* mod2.1_3.py
+To run in a virtual Selenium environment,  use the command: `python mod2.1_*.py`
 
-Module 2.2: Working with files, lists, and js-scripts
-To run in a virtual Selenium environment,  use the command: 'python mod2.2_*.py'
+Part 2: Working with files, lists, and js-scripts:
+* mod2.2_1.py
+* mod2.2_2.py
+* mod2.2_3.py
+To run in a virtual Selenium environment,  use the command: `python mod2.2_*.py`
 
-Module 2.3: Working with windows
-To run in a virtual Selenium environment,  use the command: 'python mod2.3_*.py'
+Part 3: Working with windows:
+* mod2.3_2.py
+* mod2.3_3.py
+To run in a virtual Selenium environment,  use the command: `python mod2.3_*.py`
 
-Module 2.4: Setting Expectations
-To run in a virtual Selenium environment,  use the command: 'python mod2.4_*.py'
+Part 4: Setting Expectations:
+* mod2.4_2.py
+To run in a virtual Selenium environment,  use the command: `python mod2.4_*.py`
 
 
 
