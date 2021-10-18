@@ -48,9 +48,9 @@ PyTest - parameterization, configuration, plugins and Using fixtures in PyTest:
 *mod3_6param1.py
 *test_*.py
 
-To run in a virtual Selenium environment,  use the command: `pytest -s -v --browser_name=firefox test_*.py` or
-															`pytest -s -v --browser_name=firefox mod3_6param1.py`
-															
+To run in a virtual Selenium environment,  use the command: `pytest -s -v --browser_name=firefox test_*.py` or `pytest -s -v --browser_name=firefox mod3_6param1.py`
+	
+
 Test configuration:
 *conftest.py
 *pytest.ini
