@@ -52,5 +52,5 @@ To run in a virtual Selenium environment,  use the command: `pytest -s -v --brow
 	
 
 Test configuration:
-*conftest.py
-*pytest.ini
+* conftest.py
+* pytest.ini
